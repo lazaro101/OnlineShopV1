@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+	padding:20px;
+	margin: 0;
+}
+h3 {
+	text-align: center;
+}
+a.thumbnail img {
+	width: 200px !important;
+	height: 150px !important;
+}
+div.product a {
+	text-decoration: none;
+}
+div.product:hover {
+	opacity:0.6;
+}
+.head {
+	margin-bottom: 50px;
+	padding:20px;
+}

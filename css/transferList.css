@@ -1,0 +1,25 @@
+.table-container {
+	overflow-y: scroll;
+	height:70%;
+	width:auto;
+}
+.filter {
+	width:20% !important;
+}
+th,td {
+	vertical-align: middle !important;
+}
+td {
+	height: 80px !important;
+}
+.chk {
+	width: 5% ;
+	text-align: center;
+	vertical-align: middle;
+}
+.tra, .cre, .exp, .sup, .sta {
+	width:15%;
+}
+.rec {
+	width: 20%;
+}

@@ -1,0 +1,36 @@
+.table-container {
+	overflow-y: scroll;
+	height:70%;
+	width:auto;
+}
+.filter {
+	width:20% !important;
+}
+th,td {
+	vertical-align: middle !important;
+}
+td, th {
+	height: 50px !important;
+}
+.pic img {
+	width: 80px;
+	height: 60px;
+	text-align: center;
+}
+.chk {
+	width: 5% !important;
+	text-align: center;
+}
+td.pic {
+	width: 10% !important;
+	text-align: center;
+}
+.name {
+	width: 35% !important;
+}
+.inc , .qty{
+	width: 10% !important;
+}
+.upqty {
+	width: 30% !important;
+}

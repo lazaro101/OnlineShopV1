@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+	padding:20px;
+	margin:20px;
+}
+.cont {
+	margin-bottom: 50px;
+}
+div.img img {
+	width: 70px !important;
+	height: 50px !important;
+}

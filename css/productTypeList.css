@@ -1,0 +1,21 @@
+.table-container {
+	overflow-y: scroll;
+	height:70%;
+	width:auto;
+}
+th, td {
+	vertical-align: middle !important;
+}
+.chk {
+	padding-right: 0 ;
+	margin: 0 ;
+	text-align: center ;
+	width: 5% ;
+}
+th.butn {
+	width: 20% !important;
+}
+td.butn {
+	text-align: center;
+	width: 20% !important;
+}

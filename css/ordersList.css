@@ -1,0 +1,37 @@
+.table-container {
+	overflow-y: scroll;
+	height:70%;
+	width:auto;
+}
+.filter {
+	width:20% !important;
+}
+th,td {
+	vertical-align: middle !important;
+}
+td {
+	height: 80px !important;
+}
+.chk {
+	width: 5% !important;
+	text-align: center;
+}
+.ord {
+	width: 10% !important;
+}
+.date {
+	width: 15% !important;
+}
+.cust {
+	width: 30% !important;
+}
+.sta {
+	width: 20% !important;
+}
+.total {
+	width: 20% !important;
+}
+.stat {
+	padding: 10px ;
+	border-radius: 10px;
+}
